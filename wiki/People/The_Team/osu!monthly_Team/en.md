@@ -16,7 +16,7 @@ The people listed below are the core of the osu!monthly Team and participate eve
 
 | Name | Role | Affiliated section |
 | :-- | :-- | :-- |
-| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Project leader | What's new in osu!(lazer),  |
+| ::{ flag=RS }:: [0x84f](https://osu.ppy.sh/users/7944724) | Project leader | What's new in osu!(lazer)  |
 | ::{ flag=US }:: [Blushing](https://osu.ppy.sh/users/5927823) |  | Notable osu!taiko plays |
 | ::{ flag=CA }:: [ianpep](https://osu.ppy.sh/users/7699030) |  | Notable osu!taiko plays |
 | ::{ flag=ES }:: [Patatitta](https://osu.ppy.sh/users/16294034) |  | Notable osu!catch plays |
@@ -32,5 +32,5 @@ The people listed below remain vital to the osu!monthly even if they do not writ
 | Name | Affiliated section |
 | :-- | :-- |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Community quiz |
-| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Skinning recap |
+| ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) and the [skinship team](https://skinship.xyz/) | Skinning recap |
 | ::{ flag=FR }:: [Xahlt](https://osu.ppy.sh/users/13466351) | Mapping recap |
