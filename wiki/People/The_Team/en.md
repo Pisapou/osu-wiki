@@ -51,6 +51,7 @@ The following are user groups which are made up of the osu! community members th
 | [Global Moderation Team](Global_Moderation_Team) | Keeping watch over the forums and in-game chat |
 | [Nomination Assessment Team](Nomination_Assessment_Team) | Managing the Beatmap Nominators |
 | [osu! Alumni](osu!_Alumni) | Those known for their contributions who have since moved on |
+| [osu!monthly Team](osu!monthly_Team) | Take care of the production and publication of the osu!monthly |
 | [Project Loved Team](Project_Loved_Team) | Recognising the beatmaps that the community loves most |
 | [Support Team](Support_Team) | Help / Feature Request assistance |
 
