@@ -30,7 +30,7 @@ The people listed below are the core of the osu!monthly Team and participate eve
 The people listed below remain vital to the osu!monthly even if they do not write, as they seeks the information that constitutes it.
 
 | Name | Affiliated section |
-| :-- | :-- | :-- |
+| :-- | :-- |
 | ::{ flag=GB }:: [chromb](https://osu.ppy.sh/users/10238680) | Community quiz |
 | ::{ flag=DE }:: [RockRoller](https://osu.ppy.sh/users/8388854) | Skinning recap |
 | ::{ flag=FR }:: [Xahlt](https://osu.ppy.sh/users/13466351) | Mapping recap |
